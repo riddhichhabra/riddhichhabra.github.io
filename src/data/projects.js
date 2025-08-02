@@ -5,7 +5,7 @@ const projectsData= [
         github: "https://github.com/riddhichhabra/spectrum-visualizer",
         link: "",
         linktext: "Link to Demo",
-        image: "src/assets/ASV-img.png"
+        image: "/assets/ASV-img.png"
     },
     {
         title: "Rayleigh Taylor Instabilities Simulator",
@@ -13,7 +13,7 @@ const projectsData= [
         github: "https://github.com/riddhichhabra/rti-final",
         link: "",
         linktext: "Link",
-        image: "src/assets/RT-demo.gif"
+        image: "/assets/RT-demo.gif"
     },
 ];
 

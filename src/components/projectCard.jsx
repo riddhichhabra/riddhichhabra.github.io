@@ -10,7 +10,7 @@ export default function ProjectCard({title, description, github, link, linktext,
                     </a>
                     <a href={github} target="_blank" rel="noopener noreferrer">
                         <img 
-                            src="src/assets/github.svg"
+                            src="/assets/github.svg"
                             className="w-[100%] h-auto rounded-md"
                         />
                     </a>
