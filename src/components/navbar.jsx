@@ -4,7 +4,7 @@ export default function NavBar() {
   return (
     <nav className="sticky top-0 z-50 h-16 shadow-md flex justify-between items-center p-4 bg-[#1a1a1a] text-white">
         <div className="">
-            <Link to="/" className="hover:underline"><img src="public/assets/lineartMe.png" className="invert h-12 w-auto"/></Link>
+            <Link to="/" className="hover:underline"><img src="/assets/lineartMe.png" className="invert h-12 w-auto"/></Link>
         </div>
         <div className="flex justify-end gap-6">
             <Link to="/about" className="hover:underline">About</Link>
